@@ -100,6 +100,5 @@ function validaPaciente (paciente) {
         erros.push("A altura não pode ser em branco");
     }
 
-
     return erros;
 }
